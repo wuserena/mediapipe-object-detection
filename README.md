@@ -48,6 +48,14 @@ For training model run:
 python train.py
 ```
 
+### Apply object detect on image
+
+Object detected by using the customer training model
+
+```sh
+python testing.py
+```
+
 ### Apply object detect on video
 
 Object detected by using the customer training model
