@@ -9,11 +9,7 @@
 - **Tensorflow**: 2.18.0 
 
 * MiniPupper (Raspberry Pi Compute Module 4)  
-  - **Screen:**  Displays the chatbot's responses.
-  - **Servo:** Enables tracking of the user.
-  - **Camera:** Used for face detection to track the user.
-  - **Microphone:** (on MiniPupper) Captures speech for recognition.
-  - **Speaker:** (on the screen) Outputs the chatbot’s responses for the user to hear.
+  - **Camera:**
 
 ## Environment Setup
 
