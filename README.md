@@ -28,15 +28,6 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-
-## Requirements
-
-Install them using:
-
-```sh
-pip install -r requirements.txt
-```
-
 ##  Usage
 ### Create dataset
 Selected dataset from video with in 1 frame for every 0.5 seconds
