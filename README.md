@@ -51,7 +51,7 @@ python ConvertVideoToImage.py
 
 After sampled the image, used Roboflow to label.
 
-### Training custom object detection model customization
+### Training customer object detection model
 
 The code is retrived from [Object detection model customization guide](https://ai.google.dev/edge/mediapipe/solutions/customization/object_detector)
 
@@ -59,6 +59,27 @@ For training model run:
 
 ```sh
 python train.py
+```
+
+### Apply object detect on video
+
+Object detected by using the customer training model
+
+```sh
+python object_tracking.py
+```
+### Apply object detect on stream video
+
+Using Raspberry pi camera to capture the stream video. Run this on MiniPupper to start sever API:
+
+```sh
+python camera_sever_api.py
+```
+
+Run this on PC to process the stream video to active object detection:
+
+```sh
+python camera_client.py
 ```
 
 
