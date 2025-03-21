@@ -53,7 +53,7 @@ After sampled the image, used Roboflow to label.
 
 ### Training custom object detection model customization
 
-The code is retrived from [Object detection model customization guide(https://ai.google.dev/edge/mediapipe/solutions/customization/object_detector)
+The code is retrived from [Object detection model customization guide](https://ai.google.dev/edge/mediapipe/solutions/customization/object_detector)
 
 For training model run:
 
