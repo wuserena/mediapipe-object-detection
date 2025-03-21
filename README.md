@@ -48,7 +48,7 @@ For training model run:
 python train.py
 ```
 
-### Apply object detect on image
+### Apply object detection on image
 
 Object detected by using the customer training model
 
@@ -56,14 +56,14 @@ Object detected by using the customer training model
 python testing.py
 ```
 
-### Apply object detect on video
+### Apply object detection on video
 
 Object detected by using the customer training model
 
 ```sh
 python object_tracking.py
 ```
-### Apply object detect on stream video
+### Apply object detection on stream video
 
 Using Raspberry pi camera to capture the stream video. Run this on MiniPupper to start sever API:
 
