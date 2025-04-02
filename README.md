@@ -76,5 +76,14 @@ Run this on PC to process the stream video to active object detection:
 ```sh
 python camera_client.py
 ```
+### Apply object detection on camera
 
+Run all the thing on raspberry pi and remote connect to rapsberry pi to motor the stream video
+
+```sh
+python3 detect_handless.py \
+  --model model_384_int8.tflite \
+  --maxResults 2 \
+  --scoreThreshold 0.3
+```
 
