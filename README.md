@@ -8,8 +8,7 @@
 - **Python Version**: python3.11
 - **Tensorflow**: 2.18.0 
 
-* MiniPupper (Raspberry Pi Compute Module 4)  
-  - **Camera:** v2.1
+* MiniPupper (Raspberry Pi Compute Module 4)
 
 ## Environment Setup
 
@@ -63,7 +62,7 @@ Object detected by using the customer training model
 ```sh
 python object_tracking.py
 ```
-### Apply object detection on stream video
+### Apply object detection on stream video with sever API
 
 Using Raspberry pi camera to capture the stream video. Run this on MiniPupper to start sever API:
 
