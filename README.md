@@ -9,7 +9,7 @@
 - **Tensorflow**: 2.18.0 
 
 * MiniPupper (Raspberry Pi Compute Module 4)  
-  - **Camera:**
+  - **Camera:**v2.1
 
 ## Environment Setup
 
