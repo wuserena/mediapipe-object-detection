@@ -7,8 +7,7 @@
 - **CUDA Version**: 12.7
 - **Python Version**: python3.11
 - **Tensorflow**: 2.18.0 
-
-* MiniPupper (Raspberry Pi Compute Module 4)
+- **MiniPupper** (Raspberry Pi Compute Module 4)
 
 ## Environment Setup
 
