@@ -84,6 +84,7 @@ python3 detect_handless.py \
   --maxResults 2 \
   --scoreThreshold 0.3
 ```
+
 ## Results
 MediaPipe detection of trolley shoe with bounding box and confidence score
 
